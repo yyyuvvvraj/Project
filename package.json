@@ -1,0 +1,16 @@
+{
+  "name": "excel-analytics-platform",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "autoprefixer": "9.8.8",
+    "postcss": "7.0.39",
+    "tailwindcss": "2.2.19"
+  },
+  "scripts": {
+    "start": "CHOKIDAR_USEPOLLING=true react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
